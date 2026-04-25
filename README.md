@@ -8,10 +8,7 @@ I am a Computer Engineering student at the University of Information Technology 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=quocbao8925&theme=onedark&hide_rank=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quocbao8925&layout=compact&theme=onedark&langs_count=8&card_width=320" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quocbao8925&repo=Pomodoro-ESP-Clock&theme=onedark&show_owner=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quocbao8925&layout=donut&theme=onedark&langs_count=4&card_width=320" />
 </a>
 
 ## Skills
@@ -26,7 +23,9 @@ I am a Computer Engineering student at the University of Information Technology 
 
 ## Working On
 
-* **Cyber Smart Clock V2:** Developing a hardware-based Pomodoro timer and air quality monitor.
-* **Edge AI Deployment:** Optimizing an AI-based lecturer tracking system utilizing YOLO26 for deployment on a Raspberry Pi 5.
+* **Cyber Smart Clock V2:** Developing a hardware-based Pomodoro timer with Gyro-Functions-Switching.
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quocbao8925&repo=Pomodoro-ESP-Clock&theme=tokyonight&show_owner=true" />
+</a>
 
 
