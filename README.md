@@ -4,8 +4,8 @@ I am a Computer Engineering student at the University of Information Technology 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true&theme=radium)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[Your GitHub Username]&layout=compact&theme=radium)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quocbao8925&show_icons=true&theme=radium)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quocbao8925&layout=compact&theme=radium)
 
 ## 🛠️ Skills & Technologies
 * **Languages:** C, C++, Python, Assembly (MIPS/ARM), Bash
