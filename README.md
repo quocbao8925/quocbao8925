@@ -4,10 +4,10 @@ I am a Computer Engineering student at the University of Information Technology 
 
 ## GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/quocbao8925/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=quocbao8925&theme=onedark&hide_rank=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/quocbao8925/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quocbao8925&layout=donut&theme=onedark&langs_count=4&card_width=320" />
 </a>
 
@@ -24,7 +24,7 @@ I am a Computer Engineering student at the University of Information Technology 
 ## Working On
 
 * **Cyber Smart Clock V2:** Developing a hardware-based Pomodoro timer with Gyro-Functions-Switching.
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/quocbao8925/Pomodoro-ESP-Clock">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quocbao8925&repo=Pomodoro-ESP-Clock&theme=tokyonight&show_owner=true" />
 </a>
 
