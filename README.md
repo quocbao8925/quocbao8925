@@ -4,12 +4,12 @@ I am a Computer Engineering student at the University of Information Technology 
 
 ## GitHub Stats
 
-<a href="https://github.com/quocbao8925/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=quocbao8925&theme=onedark&hide_rank=true&year=2025,2026" />
-</a>
-<a href="https://github.com/quocbao8925/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quocbao8925&layout=donut&theme=onedark&langs_count=4&card_width=320" />
-</a>
+|[![QuocBao's Stats](https://github-readme-stats.vercel.app/api?username=quocbao8925&theme=onedark&year=2025,2026")](https://github.com/quocbao8925/)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=quocbao8925&layout=donut&theme=onedark&langs_count=4&card_width=320)](https://github.com/quocbao8925/)|
+| -------- | -------- |
+
+
+
+
 
 ## Skills
 * **Languages:** C, C++, Python, Assembly (MIPS/ARM), Bash
