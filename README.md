@@ -23,7 +23,7 @@ I am a *Computer Engineering student* at the **University of Information Technol
 
 ## Working On
 
-* **Cyber Smart Clock V2:** Developing a hardware-based Pomodoro timer with Gyro-Functions-Switching.
+* **ESP Smart Clock:** Developing a hardware-based Pomodoro timer with Gyro-Functions-Switching.
 <a href="https://github.com/quocbao8925/Pomodoro-ESP-Clock">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quocbao8925&repo=Pomodoro-ESP-Clock&theme=tokyonight&show_owner=true" />
 </a>
