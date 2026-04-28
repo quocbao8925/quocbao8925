@@ -13,19 +13,9 @@ I am a *Computer Engineering student* at the **University of Information Technol
 
 ## Skills
 * **Languages:** C, C++, Python, Assembly (MIPS/ARM), Bash
-* **Embedded Systems:** STM32, ESP32, FreeRTOS, DMA, PWM, I2C, SPI
-* **Tools & Protocols:** MQTT, Git, Linux/Raspberry Pi
-* 
+* **Embedded Systems:** STM32, ESP32
 ### IDEs
 
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-
-## Working On
-
-* **ESP Smart Clock:** Developing a hardware-based Pomodoro timer with Gyro-Functions-Switching.
-<a href="https://github.com/quocbao8925/Pomodoro-ESP-Clock">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quocbao8925&repo=Pomodoro-ESP-Clock&theme=tokyonight&show_owner=true" />
-</a>
-
 
