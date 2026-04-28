@@ -1,6 +1,6 @@
 # Greetings, I'm Bui Quoc Bao.
 
-I am a Computer Engineering student at the University of Information Technology (UIT), VNU-HCM. I am passionate about bridging the gap between hardware and software, focusing on embedded systems, IoT, and edge AI.
+I am a *Computer Engineering student* at the **University of Information Technology (UIT)**, VNU-HCM. I am passionate about bridging the gap between hardware and software, focusing on embedded systems, IoT, and edge AI.
 
 ## GitHub Stats
 
