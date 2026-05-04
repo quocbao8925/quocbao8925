@@ -4,9 +4,9 @@ I am a *Computer Engineering student* at the **University of Information Technol
 
 ## GitHub Stats
 
-| GitHub Streak | Top Languages |
-| :---: | :---: |
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=quocbao8925&theme=onedark)](https://git.io/streak-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quocbao8925&stats_format=bytes) |
+| GitHub Streak | 
+| :---: |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=quocbao8925&theme=onedark)](https://git.io/streak-stats) |
 
 | Contribution Graph |
 | :---: |
